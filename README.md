@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @art-doppio
 - 👀 I’m interested in Automated Test
-- 🌱 I’m currently learning Robot Framework, Selenium, anything related to Test Case
+- 🌱 I’m currently learning Robot Framework, Selenium, anything related to QA tester
 
 <!---
 art-doppio/art-doppio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
